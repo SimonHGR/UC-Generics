@@ -1,5 +1,5 @@
 package bridge;
-
+//https://github.com/SimonHGR/UC-Generics
 public class Example implements Comparable<Example> {
   @Override
   public int compareTo(Example this, Example o) {
